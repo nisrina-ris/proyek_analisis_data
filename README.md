@@ -7,4 +7,6 @@ conda activate main-ds
 pip install numpy pandas scipy matplotlib seaborn jupyter
 ```
 ## Run Streamlit App
+```
 streamlit run proyek_analisis_data.py
+```
