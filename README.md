@@ -8,5 +8,6 @@ pip install numpy pandas scipy matplotlib seaborn jupyter
 ```
 ## Run Streamlit App
 ```
-streamlit run proyek_analisis_data.py
+cd dashboard
+streamlit run proyek_analisis_data_v2.py
 ```
